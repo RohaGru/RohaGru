@@ -27,7 +27,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs            :  true # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 400
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "로하그루"
-  avatar           : "Images/rohagru.jpg"
-  bio              : "#메이플스토리 #아크메이지(불독) #루나서버 #로하길드"
+  avatar           : "assets/rohagru.jpg"
+  bio              : "#메이플스토리 #루나서버 #로하길드 #아크메이지(불독)"
   location         : "대한민국 성남시"
   email            : "horang2k@gmail.com"
   links:

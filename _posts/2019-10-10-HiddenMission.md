@@ -1,7 +1,7 @@
 ---
 title: "Roha LOTTO! Hidden Mission 공개"
 date: 2019-10-10 
-categories: Guild-Event
+categories: Guild
 ---
 
 ## Hidden Mission  
@@ -31,5 +31,5 @@ categories: Guild-Event
 ---  
 ### 히든 미션 네 번 째
 #### **상품 : 거울 세계 코어젬스톤 1개**  
-> <span style="color:white">토끼토끼해! : 피보나치 수열 숫자 선택하기 1 2 3 5/ 2 3 5 8/3 5 8 13</span>  
+> <span style="color:white">토끼토끼해! : 피보나치 수열 숫자 선택하기 1 2 3 5 8 13으로만 숫자 구성</span>  
 
