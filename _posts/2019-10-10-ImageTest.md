@@ -1,7 +1,7 @@
 ---
 title: "길드 스크린샷 업로드 확인용"
 categories:
-  - 길드스샷
+  - screenshot
 tags:
   - 로하
   - 밍브
