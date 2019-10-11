@@ -8,17 +8,31 @@ tags:
   - 밍브
   - 소우 
   - 패판
+gallery:
+  - url: /assets/roha_guild/group_pic1.png
+    image_path: /assets/roha_guild/group_pic1.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/roha_guild/group_pic2.png
+    image_path: /assets/roha_guild/group_pic2.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/roha_guild/group_pic3.png
+    image_path: /assets/roha_guild/group_pic3.png
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/roha_guild/group_pic4.png
+    image_path: /assets/roha_guild/group_pic4.png
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/roha_guild/group_pic5.png
+    image_path: /assets/roha_guild/group_pic5.png
+    alt: "placeholder image 5"
+    title: "Image 5 title caption"  
+  - url: /assets/roha_guild/group_pic6.png
+    image_path: /assets/roha_guild/group_pic6.png
+    alt: "placeholder image 6"
+    title: "Image 6 title caption"
 ---
 
-{% raw %}
-![스샷1]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic1.png)
-{% endraw %}
-{% raw %}
-![스샷2]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic2.png)
-![스샷3]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic3.png)
-{% endraw %}
-{% raw %}
-![스샷4]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic4.png)
-![스샷5]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic5.png)
-![스샷6]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic6.png)
-{% endraw %}
+{% include gallery caption="로하길드 스크린샷" %}
