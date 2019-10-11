@@ -1,8 +1,11 @@
 ---
 title: "Roha LOTTO! Hidden Mission 공개"
 date: 2019-10-10 
-categories: Guild
-tags : Roha-Lotto
+categories: 
+    - 길드이벤트
+tags : 
+    - 로하로또
+    - 히든미션
 ---
 
 ## Hidden Mission  
