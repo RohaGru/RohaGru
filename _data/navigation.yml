@@ -4,9 +4,14 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
+  - title: "연도별 모아보기"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Tag별 모아보기"
+    url: /tags/
+  - title: "결정석 기록지"
+    url: https://bit.ly/MesoCalc
+  - title: "Maple GG"
+    url: https://maple.gg
+
   # - title: "Sitemap"
   #   url: /sitemap/
