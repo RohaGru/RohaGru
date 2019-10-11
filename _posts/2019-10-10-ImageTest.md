@@ -1,5 +1,6 @@
 ---
 title: "길드 스크린샷 업로드 확인용"
+date: 2019-10-10 
 categories:
   - screenshot
 tags:
