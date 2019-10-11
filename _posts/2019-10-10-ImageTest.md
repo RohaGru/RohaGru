@@ -11,14 +11,14 @@ tags:
 ---
 
 {% raw %}
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic1.png" alt="첫번째 스크린샷">
+![스샷1]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic1.png)
 {% endraw %}
 {% raw %}
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic2.png" alt="두번째 스크린샷">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic3.png" alt="세번째 스크린샷">
+![스샷2]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic2.png)
+![스샷3]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic3.png)
 {% endraw %}
 {% raw %}
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic4.png" alt="네번째 스크린샷">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic5.png" alt="다섯번째 스크린샷">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic6.png" alt="여섯번째 스크린샷">
+![스샷4]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic4.png)
+![스샷5]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic5.png)
+![스샷6]({{ site.url }}{{ site.baseurl }}/assets/roha_guild/group_pic6.png)
 {% endraw %}
