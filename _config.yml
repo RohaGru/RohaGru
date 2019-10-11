@@ -111,11 +111,11 @@ author:
   avatar           : "Images/rohagru.jpg"
   bio              : "#메이플스토리 #아크메이지(불독) #루나서버 #로하길드"
   location         : "대한민국 성남시"
-  email            :
+  email            : "horang2k@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:horang2k@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
