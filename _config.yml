@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "로하그루 - 루나 ㅇ.ㅇ/"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "로하그루"
   avatar           : "Images/rohagru.jpg"
-  bio              : "#메이플스토리 #유저 #루나서버 #로하길드"
+  bio              : "#메이플스토리 #아크메이지(불독) #루나서버 #로하길드"
   location         : "대한민국 성남시"
   email            :
   links:

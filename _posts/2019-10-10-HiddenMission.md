@@ -15,7 +15,7 @@ categories: Guild-Event
 ### 히든 미션 첫 번 째
 #### **상품 : 로얄 스타일 10개**  
   
-> <span style="color:white">난 약수가 홀수개야 멋지지? : 제곱수로만 숫자 선택하기 1 4 9 16</span>  
+> <span style="color:white">약수가 홀수개인 신비로운 숫자! : 제곱수로만 숫자 선택하기 1 4 9 16</span>  
 
 ---  
 ### 히든 미션 두 번 째
