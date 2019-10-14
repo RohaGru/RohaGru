@@ -36,8 +36,9 @@ gallery2:
     title: "Image 6 title caption"
 ---
 
-full  
-{% include gallery id="gallery1" class="full" caption="로하길드 스크린샷 test 01" %}  
-half  
-{% include gallery id="gallery2" class="half" caption="로하길드 스크린샷 test 01" %}
+지금은 메접하신 패판님과 밍브 소우와 함께 예전 어느날 찍었던 스크린샷.
+톡방에 저장해 놨던 스크린샷은 저장 기간이 만료되어 사라져버림 ㅠㅠ  
+
+{% include gallery id="gallery1" class="full" caption="로하길드 스크린샷" %}  
+{% include gallery id="gallery2" class="full" caption="로하길드 스크린샷" %}
 
